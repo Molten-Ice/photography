@@ -360,110 +360,7 @@
       "placeholder_path": "./photos/Sunsets/IMG_4493.placeholder.jpg"
     }
   ],
-    
-  "Chia": [
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Chia/IMG_8630.jpg",
-      "compressed_path": "./photos/Chia/IMG_8630.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Chia/IMG_8630.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Chia/IMG_8465.jpg",
-      "compressed_path": "./photos/Chia/IMG_8465.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Chia/IMG_8465.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Chia/IMG_8629.jpg",
-      "compressed_path": "./photos/Chia/IMG_8629.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Chia/IMG_8629.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Chia/IMG_8628.jpg",
-      "compressed_path": "./photos/Chia/IMG_8628.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Chia/IMG_8628.placeholder.jpg"
-    }
-  ],
-    "Val-d'Is\u00e8re": [
-    {
-      "width": 4096,
-      "height": 2689,
-      "path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.jpeg",
-      "compressed_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.placeholder.jpeg"
-    },
-    {
-      "width": 1940,
-      "height": 1287,
-      "path": "./photos/Val-d'Is\u00e8re/59290024.jpg",
-      "compressed_path": "./photos/Val-d'Is\u00e8re/59290024.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Val-d'Is\u00e8re/59290024.placeholder.jpg"
-    },
-    {
-      "width": 1940,
-      "height": 1287,
-      "path": "./photos/Val-d'Is\u00e8re/59300001.jpg",
-      "compressed_path": "./photos/Val-d'Is\u00e8re/59300001.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Val-d'Is\u00e8re/59300001.placeholder.jpg"
-    },
-    {
-      "width": 4096,
-      "height": 2791,
-      "path": "./photos/Val-d'Is\u00e8re/received_558452468037833.jpeg",
-      "compressed_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.placeholder.jpeg"
-    }
-  ],
-  "Sailing": [
-    {
-      "width": 2163,
-      "height": 2615,
-      "path": "./photos/Sailing/received_637873537028838.jpg",
-      "compressed_path": "./photos/Sailing/received_637873537028838.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_637873537028838.placeholder.jpg"
-    },
-    {
-      "width": 2636,
-      "height": 2726,
-      "path": "./photos/Sailing/received_600465833833868.jpg",
-      "compressed_path": "./photos/Sailing/received_600465833833868.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_600465833833868.placeholder.jpg"
-    },
-    {
-      "width": 4096,
-      "height": 2416,
-      "path": "./photos/Sailing/received_231642647846134.jpeg",
-      "compressed_path": "./photos/Sailing/received_231642647846134.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_231642647846134.placeholder.jpeg"
-    },
-    {
-      "width": 4096,
-      "height": 2484,
-      "path": "./photos/Sailing/received_2610072125984048.jpeg",
-      "compressed_path": "./photos/Sailing/received_2610072125984048.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_2610072125984048.placeholder.jpeg"
-    }
-  ],
-  "Kathmandu": [
+    "Kathmandu": [
     {
       "width": 5184,
       "height": 3456,
@@ -655,6 +552,109 @@
       "compressed_path": "./photos/Kathmandu/IMG_4046.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Kathmandu/IMG_4046.placeholder.jpg"
+    },
+    
+  "Chia": [
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8630.jpg",
+      "compressed_path": "./photos/Chia/IMG_8630.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8630.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8465.jpg",
+      "compressed_path": "./photos/Chia/IMG_8465.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8465.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8629.jpg",
+      "compressed_path": "./photos/Chia/IMG_8629.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8629.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8628.jpg",
+      "compressed_path": "./photos/Chia/IMG_8628.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8628.placeholder.jpg"
     }
+  ],
+    "Val-d'Is\u00e8re": [
+    {
+      "width": 4096,
+      "height": 2689,
+      "path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.jpeg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.placeholder.jpeg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Val-d'Is\u00e8re/59290024.jpg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/59290024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/59290024.placeholder.jpg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Val-d'Is\u00e8re/59300001.jpg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/59300001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/59300001.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 2791,
+      "path": "./photos/Val-d'Is\u00e8re/received_558452468037833.jpeg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.placeholder.jpeg"
+    }
+  ],
+  "Sailing": [
+    {
+      "width": 2163,
+      "height": 2615,
+      "path": "./photos/Sailing/received_637873537028838.jpg",
+      "compressed_path": "./photos/Sailing/received_637873537028838.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_637873537028838.placeholder.jpg"
+    },
+    {
+      "width": 2636,
+      "height": 2726,
+      "path": "./photos/Sailing/received_600465833833868.jpg",
+      "compressed_path": "./photos/Sailing/received_600465833833868.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_600465833833868.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 2416,
+      "path": "./photos/Sailing/received_231642647846134.jpeg",
+      "compressed_path": "./photos/Sailing/received_231642647846134.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_231642647846134.placeholder.jpeg"
+    },
+    {
+      "width": 4096,
+      "height": 2484,
+      "path": "./photos/Sailing/received_2610072125984048.jpeg",
+      "compressed_path": "./photos/Sailing/received_2610072125984048.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_2610072125984048.placeholder.jpeg"
+    }
+  ]
   ]
 }
