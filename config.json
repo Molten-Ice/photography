@@ -552,8 +552,9 @@
       "compressed_path": "./photos/Kathmandu/IMG_4046.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Kathmandu/IMG_4046.placeholder.jpg"
-    },
-    
+    }
+  ],
+  
   "Chia": [
     {
       "width": 3264,
@@ -655,6 +656,5 @@
       "compressed": true,
       "placeholder_path": "./photos/Sailing/received_2610072125984048.placeholder.jpeg"
     }
-  ]
   ]
 }
