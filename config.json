@@ -1,4 +1,55 @@
 {
+  "Chia": [],
+  "Bailbas-khoplang": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4370.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4370.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4370.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_5478.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_5478.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_5478.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4793.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4793.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4793.placeholder.jpg"
+    },
+    {
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4783.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4783.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4783.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4248.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4248.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4248.placeholder.jpg"
+    }
+  ],
   "Val-d'Is\u00e8re": [
     {
       "width": 4096,
@@ -44,12 +95,12 @@
       "placeholder_path": "./photos/Where is your democracy/IMG_4033.placeholder.jpg"
     },
     {
-      "width": 2719,
-      "height": 4404,
-      "path": "./photos/Where is your democracy/IMG_4032 (2).jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_4032 (2).min.jpg",
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_4042.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_4042.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_4032 (2).placeholder.jpg"
+      "placeholder_path": "./photos/Where is your democracy/IMG_4042.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -100,38 +151,96 @@
       "placeholder_path": "./photos/Where is your democracy/IMG_3905.placeholder.jpg"
     }
   ],
+  "Sunsets": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4753.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4753.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4753.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4742.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4742.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4742.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4150.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4150.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4150.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_5536.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_5536.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_5536.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4746.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4746.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4746.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4561.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4561.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4561.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Sunsets/IMG_4493.jpg",
+      "compressed_path": "./photos/Sunsets/IMG_4493.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/IMG_4493.placeholder.jpg"
+    }
+  ],
   "Sailing": [
     {
-      "width": 4096,
-      "height": 2689,
-      "path": "./photos/Sailing/received_1227451634106732.jpeg",
-      "compressed_path": "./photos/Sailing/received_1227451634106732.min.jpeg",
+      "width": 2163,
+      "height": 2615,
+      "path": "./photos/Sailing/received_637873537028838.jpg",
+      "compressed_path": "./photos/Sailing/received_637873537028838.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_1227451634106732.placeholder.jpeg"
+      "placeholder_path": "./photos/Sailing/received_637873537028838.placeholder.jpg"
     },
     {
-      "width": 1940,
-      "height": 1287,
-      "path": "./photos/Sailing/59290024.jpg",
-      "compressed_path": "./photos/Sailing/59290024.min.jpg",
+      "width": 2636,
+      "height": 2726,
+      "path": "./photos/Sailing/received_600465833833868.jpg",
+      "compressed_path": "./photos/Sailing/received_600465833833868.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Sailing/59290024.placeholder.jpg"
-    },
-    {
-      "width": 1940,
-      "height": 1287,
-      "path": "./photos/Sailing/59300001.jpg",
-      "compressed_path": "./photos/Sailing/59300001.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sailing/59300001.placeholder.jpg"
+      "placeholder_path": "./photos/Sailing/received_600465833833868.placeholder.jpg"
     },
     {
       "width": 4096,
-      "height": 2791,
-      "path": "./photos/Sailing/received_558452468037833.jpeg",
-      "compressed_path": "./photos/Sailing/received_558452468037833.min.jpeg",
+      "height": 2416,
+      "path": "./photos/Sailing/received_231642647846134.jpeg",
+      "compressed_path": "./photos/Sailing/received_231642647846134.min.jpeg",
       "compressed": true,
-      "placeholder_path": "./photos/Sailing/received_558452468037833.placeholder.jpeg"
+      "placeholder_path": "./photos/Sailing/received_231642647846134.placeholder.jpeg"
+    },
+    {
+      "width": 4096,
+      "height": 2484,
+      "path": "./photos/Sailing/received_2610072125984048.jpeg",
+      "compressed_path": "./photos/Sailing/received_2610072125984048.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_2610072125984048.placeholder.jpeg"
     }
   ],
   "Nepal": [
@@ -152,12 +261,28 @@
       "placeholder_path": "./photos/Nepal/IMG_4851.placeholder.jpg"
     },
     {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Nepal/IMG_9112.jpg",
+      "compressed_path": "./photos/Nepal/IMG_9112.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Nepal/IMG_9112.placeholder.jpg"
+    },
+    {
       "width": 5184,
       "height": 3456,
       "path": "./photos/Nepal/IMG_4537.jpg",
       "compressed_path": "./photos/Nepal/IMG_4537.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Nepal/IMG_4537.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Nepal/scenery4.jpg",
+      "compressed_path": "./photos/Nepal/scenery4.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Nepal/scenery4.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -270,6 +395,200 @@
       "compressed_path": "./photos/Nepal/IMG_4837.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Nepal/IMG_4837.placeholder.jpg"
+    }
+  ],
+  "Kathmandu": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3925.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3925.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3925.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_4055.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_4055.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_4055.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3935.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3935.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3935.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3939.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3939.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3939.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3942.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3942.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3942.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5466.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5466.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5466.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3919.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3919.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3919.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3926.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3926.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3926.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5453.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5453.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5453.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3893.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3893.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3893.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5494.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5494.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5494.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3945.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3945.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3945.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3873.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3873.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3873.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3943.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3943.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3943.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_4065.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_4065.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_4065.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3959.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3959.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3959.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3874.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3874.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3874.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5470.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5470.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5470.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_4026.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_4026.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_4026.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5449.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5449.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5449.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_5375.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_5375.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_5375.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3971.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3971.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3971.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_3957.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_3957.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_3957.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Kathmandu/IMG_4046.jpg",
+      "compressed_path": "./photos/Kathmandu/IMG_4046.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Kathmandu/IMG_4046.placeholder.jpg"
     }
   ]
 }
