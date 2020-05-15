@@ -1,70 +1,4 @@
 {
-  "Bailbas-Khoplang": [
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Bailbas-Khoplang/IMG_4370.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4370.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4370.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Bailbas-Khoplang/IMG_5478.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_5478.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_5478.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Bailbas-Khoplang/IMG_4793.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4793.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4793.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Bailbas-Khoplang/IMG_8537.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_8537.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_8537.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Bailbas-Khoplang/IMG_8481.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_8481.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_8481.placeholder.jpg"
-    },
-    {
-      "width": 960,
-      "height": 720,
-      "path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Bailbas-Khoplang/IMG_4783.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4783.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4783.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Bailbas-Khoplang/IMG_4248.jpg",
-      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4248.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4248.placeholder.jpg"
-    }
-  ],
   "Chia": [
     {
       "width": 3264,
@@ -97,6 +31,72 @@
       "compressed_path": "./photos/Chia/IMG_8628.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Chia/IMG_8628.placeholder.jpg"
+    }
+  ],
+  "Bailbas-khoplang": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4370.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4370.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4370.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_5478.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_5478.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_5478.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4793.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4793.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4793.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Bailbas-khoplang/IMG_8537.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_8537.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_8537.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Bailbas-khoplang/IMG_8481.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_8481.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_8481.placeholder.jpg"
+    },
+    {
+      "width": 960,
+      "height": 720,
+      "path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4783.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4783.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4783.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Bailbas-khoplang/IMG_4248.jpg",
+      "compressed_path": "./photos/Bailbas-khoplang/IMG_4248.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4248.placeholder.jpg"
     }
   ],
   "Where is you Democracy": [
@@ -199,7 +199,6 @@
       "placeholder_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.placeholder.jpeg"
     }
   ],
-  ".ipynb_checkpoints": [],
   "Sunsets": [
     {
       "width": 1920,
