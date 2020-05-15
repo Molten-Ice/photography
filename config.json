@@ -1,53 +1,168 @@
 {
-  "Chia": [],
-  "Bailbas-khoplang": [
+  "Bailbas-Khoplang": [
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Bailbas-khoplang/IMG_4370.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/IMG_4370.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/IMG_4370.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4370.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4370.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4370.placeholder.jpg"
     },
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Bailbas-khoplang/IMG_5478.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/IMG_5478.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/IMG_5478.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_5478.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/IMG_5478.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_5478.placeholder.jpg"
     },
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Bailbas-khoplang/IMG_4793.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/IMG_4793.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/IMG_4793.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4793.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4793.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4793.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Bailbas-Khoplang/IMG_8537.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_8537.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_8537.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Bailbas-Khoplang/IMG_8481.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_8481.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_8481.placeholder.jpg"
     },
     {
       "width": 960,
       "height": 720,
-      "path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/FB_IMG_1571563760630.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/FB_IMG_1571563760630.placeholder.jpg"
     },
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Bailbas-khoplang/IMG_4783.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/IMG_4783.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/IMG_4783.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4783.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4783.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4783.placeholder.jpg"
     },
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Bailbas-khoplang/IMG_4248.jpg",
-      "compressed_path": "./photos/Bailbas-khoplang/IMG_4248.min.jpg",
+      "path": "./photos/Bailbas-Khoplang/IMG_4248.jpg",
+      "compressed_path": "./photos/Bailbas-Khoplang/IMG_4248.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Bailbas-khoplang/IMG_4248.placeholder.jpg"
+      "placeholder_path": "./photos/Bailbas-Khoplang/IMG_4248.placeholder.jpg"
+    }
+  ],
+  "Chia": [
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8630.jpg",
+      "compressed_path": "./photos/Chia/IMG_8630.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8630.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8465.jpg",
+      "compressed_path": "./photos/Chia/IMG_8465.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8465.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8629.jpg",
+      "compressed_path": "./photos/Chia/IMG_8629.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8629.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Chia/IMG_8628.jpg",
+      "compressed_path": "./photos/Chia/IMG_8628.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Chia/IMG_8628.placeholder.jpg"
+    }
+  ],
+  "Where is you Democracy": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_4033.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_4033.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_4033.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_4042.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_4042.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_4042.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_3999.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_3999.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_3999.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_3948.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_3948.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_3948.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_4028.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_4028.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_4028.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_3998.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_3998.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_3998.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_3989.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_3989.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_3989.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is you Democracy/IMG_3905.jpg",
+      "compressed_path": "./photos/Where is you Democracy/IMG_3905.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is you Democracy/IMG_3905.placeholder.jpg"
     }
   ],
   "Val-d'Is\u00e8re": [
@@ -85,73 +200,15 @@
     }
   ],
   ".ipynb_checkpoints": [],
-  "Where is your democracy": [
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_4033.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_4033.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_4033.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_4042.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_4042.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_4042.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_3999.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_3999.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_3999.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_3948.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_3948.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_3948.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_4028.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_4028.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_4028.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_3998.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_3998.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_3998.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_3989.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_3989.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_3989.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Where is your democracy/IMG_3905.jpg",
-      "compressed_path": "./photos/Where is your democracy/IMG_3905.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Where is your democracy/IMG_3905.placeholder.jpg"
-    }
-  ],
   "Sunsets": [
+    {
+      "width": 1920,
+      "height": 1280,
+      "path": "./photos/Sunsets/Scenery.jpg",
+      "compressed_path": "./photos/Sunsets/Scenery.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sunsets/Scenery.placeholder.jpg"
+    },
     {
       "width": 5184,
       "height": 3456,
@@ -251,6 +308,14 @@
       "compressed_path": "./photos/Nepal/IMG_4938.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Nepal/IMG_4938.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Nepal/IMG_7805.jpg",
+      "compressed_path": "./photos/Nepal/IMG_7805.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Nepal/IMG_7805.placeholder.jpg"
     },
     {
       "width": 5184,
