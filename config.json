@@ -1,5 +1,139 @@
 {
+  "Val-d'Is\u00e8re": [
+    {
+      "width": 4096,
+      "height": 2689,
+      "path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.jpeg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_1227451634106732.placeholder.jpeg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Val-d'Is\u00e8re/59290024.jpg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/59290024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/59290024.placeholder.jpg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Val-d'Is\u00e8re/59300001.jpg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/59300001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/59300001.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 2791,
+      "path": "./photos/Val-d'Is\u00e8re/received_558452468037833.jpeg",
+      "compressed_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Val-d'Is\u00e8re/received_558452468037833.placeholder.jpeg"
+    }
+  ],
   ".ipynb_checkpoints": [],
+  "Where is your democracy": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_4033.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_4033.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_4033.placeholder.jpg"
+    },
+    {
+      "width": 2719,
+      "height": 4404,
+      "path": "./photos/Where is your democracy/IMG_4032 (2).jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_4032 (2).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_4032 (2).placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_3999.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_3999.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_3999.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_3948.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_3948.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_3948.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_4028.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_4028.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_4028.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_3998.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_3998.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_3998.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_3989.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_3989.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_3989.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Where is your democracy/IMG_3905.jpg",
+      "compressed_path": "./photos/Where is your democracy/IMG_3905.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Where is your democracy/IMG_3905.placeholder.jpg"
+    }
+  ],
+  "Sailing": [
+    {
+      "width": 4096,
+      "height": 2689,
+      "path": "./photos/Sailing/received_1227451634106732.jpeg",
+      "compressed_path": "./photos/Sailing/received_1227451634106732.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_1227451634106732.placeholder.jpeg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Sailing/59290024.jpg",
+      "compressed_path": "./photos/Sailing/59290024.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/59290024.placeholder.jpg"
+    },
+    {
+      "width": 1940,
+      "height": 1287,
+      "path": "./photos/Sailing/59300001.jpg",
+      "compressed_path": "./photos/Sailing/59300001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/59300001.placeholder.jpg"
+    },
+    {
+      "width": 4096,
+      "height": 2791,
+      "path": "./photos/Sailing/received_558452468037833.jpeg",
+      "compressed_path": "./photos/Sailing/received_558452468037833.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sailing/received_558452468037833.placeholder.jpeg"
+    }
+  ],
   "Nepal": [
     {
       "width": 5184,
@@ -20,22 +154,6 @@
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Nepal/scenery5.jpg",
-      "compressed_path": "./photos/Nepal/scenery5.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/scenery5.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Nepal/IMG_4079.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4079.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4079.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
       "path": "./photos/Nepal/IMG_4537.jpg",
       "compressed_path": "./photos/Nepal/IMG_4537.min.jpg",
       "compressed": true,
@@ -44,42 +162,10 @@
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Nepal/IMG_4138.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4138.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4138.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
       "path": "./photos/Nepal/IMG_4089.jpg",
       "compressed_path": "./photos/Nepal/IMG_4089.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Nepal/IMG_4089.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Nepal/IMG_4798.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4798.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4798.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Nepal/IMG_4764.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4764.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4764.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Nepal/IMG_4102.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4102.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4102.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -124,14 +210,6 @@
     {
       "width": 5184,
       "height": 3456,
-      "path": "./photos/Nepal/IMG_4797.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4797.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4797.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
       "path": "./photos/Nepal/scenery3.jpg",
       "compressed_path": "./photos/Nepal/scenery3.min.jpg",
       "compressed": true,
@@ -160,14 +238,6 @@
       "compressed_path": "./photos/Nepal/IMG_4774.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Nepal/IMG_4774.placeholder.jpg"
-    },
-    {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Nepal/IMG_4137.jpg",
-      "compressed_path": "./photos/Nepal/IMG_4137.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Nepal/IMG_4137.placeholder.jpg"
     },
     {
       "width": 5184,
