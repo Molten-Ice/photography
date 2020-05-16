@@ -5,8 +5,8 @@
       "height": 3456,
       "path": "./photos/Nepal/IMG_4938.jpg",
       "compressed_path": "./photos/Nepal/IMG_4938.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Nepal/IMG_4938.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Nepal/IMG_4938.placeholder.jpg"
     },
     {
       "width": 3264,
